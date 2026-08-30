@@ -36,9 +36,3 @@ def ReLU(X):
 Y = ReLU(z)
 print("Y :", Y)
 
-
-#ANN , FNN all chain till gen ai llm
-
-# Dr. gokhale
-
-#activation funcrtions , resume
