@@ -1,4 +1,4 @@
-
+#Activation function
 import numpy as np
 
 
